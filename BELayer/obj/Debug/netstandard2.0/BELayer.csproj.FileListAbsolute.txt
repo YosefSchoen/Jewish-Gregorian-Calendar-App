@@ -1,0 +1,9 @@
+C:\Users\josep\source\repos\Calendar\BELayer\bin\Debug\netstandard2.0\BELayer.deps.json
+C:\Users\josep\source\repos\Calendar\BELayer\bin\Debug\netstandard2.0\BELayer.dll
+C:\Users\josep\source\repos\Calendar\BELayer\bin\Debug\netstandard2.0\BELayer.pdb
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.AssemblyInfo.cs
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.dll
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.pdb
+C:\Users\josep\source\repos\Calendar\BELayer\obj\Debug\netstandard2.0\BELayer.csprojAssemblyReference.cache

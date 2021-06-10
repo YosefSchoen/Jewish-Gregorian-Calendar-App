@@ -1,0 +1,5 @@
+C:\Users\josep\source\repos\Calendar\CalendarDB\bin\Debug\CalendarDB.dacpac
+C:\Users\josep\source\repos\Calendar\CalendarDB\obj\Debug\CalendarDB.dll
+C:\Users\josep\source\repos\Calendar\CalendarDB\obj\Debug\CalendarDB.pdb
+C:\Users\josep\source\repos\Calendar\CalendarDB\bin\Debug\CalendarDB.dll
+C:\Users\josep\source\repos\Calendar\CalendarDB\bin\Debug\CalendarDB.pdb

@@ -1,0 +1,17 @@
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\CalendarFactory.exe.config
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\CalendarFactory.exe
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\CalendarFactory.pdb
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\CalendarDB.dll
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\Dapper.dll
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\CalendarDB.pdb
+C:\Users\josep\source\repos\Calendar\Calendar\bin\Debug\Dapper.xml
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\Dashboard.g.cs
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory_MarkupCompile.cache
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory_MarkupCompile.lref
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\Dashboard.baml
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.g.resources
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.csproj.CopyComplete
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.exe
+C:\Users\josep\source\repos\Calendar\Calendar\obj\Debug\CalendarFactory.pdb

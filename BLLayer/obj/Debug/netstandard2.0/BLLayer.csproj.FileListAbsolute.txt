@@ -1,0 +1,14 @@
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.AssemblyInfo.cs
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\BLLayer.deps.json
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\BLLayer.dll
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\BLLayer.pdb
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\BELayer.dll
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\DALayer.dll
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\BELayer.pdb
+C:\Users\josep\source\repos\Calendar\BLLayer\bin\Debug\netstandard2.0\DALayer.pdb
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.csproj.CopyComplete
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.dll
+C:\Users\josep\source\repos\Calendar\BLLayer\obj\Debug\netstandard2.0\BLLayer.pdb
